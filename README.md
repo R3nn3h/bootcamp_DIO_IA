@@ -9,7 +9,7 @@ Foram utilizadas as seguintes ferramentas:
   
   **ElevenLabs:** Transformação de texto em áudio.
   
-  **D-ID:** Criação de avatar virtual para interpretar o aúdio gerado pelo ElevenLabs
+  **D-ID:** Criação de avatar virtual para interpretar o áudio gerado pelo ElevenLabs
   
   **Gamma App:** Para criação de apresentação inicial e utilização de layout com imagens e fundos personalizados.
 

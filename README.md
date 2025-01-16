@@ -13,6 +13,8 @@ Foram utilizadas as seguintes ferramentas:
   
   **Gamma App:** Para criação de apresentação inicial e utilização de layout com imagens e fundos personalizados.
 
+  https://github.com/R3nn3h/bootcamp_DIO_IA/blob/main/Os-7-Habitos-das-Pessoas-Mais-Eficazes.pptx
+
   Espero que gostem, e fiquem à vontade para compartilhar e utilizar no dia a dia
   Para maior conhecimento no assunto leiam o livro do Stephen R. Covey, vale não só para o ambiente de trabalho, mas para a vida pessoal.
   Obrigado.

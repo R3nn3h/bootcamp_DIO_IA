@@ -1,7 +1,7 @@
 # bootcamp_DIO_IA
 Repositório para entrega do projeto do BootCamp
 
-Para entrega do projeto, ao invés de realizar a entrega de um e-book, foi desenvolvimento uma apresentação sobre o livro "Os 7 hábitos das pessoal altamente eficazes" de Stephen R. Covey.
+Para entrega do projeto, ao invés de realizar a entrega de um e-book ou podcast, foi desenvolvimento uma apresentação sobre o livro "Os 7 hábitos das pessoal altamente eficazes" de Stephen R. Covey, utilizando os conceitos e ferramentas em comum para entrega de ambos projetos.
 
 Foram utilizadas as seguintes ferramentas:
 
